@@ -38,3 +38,4 @@ Client can send a relay messages which body is relayed to receivers marked in th
 - implement request IDs and request queueing on the client so that requesting methods can return the result
 - server, client networking code is not well-tested with unit tests
 - serialization suppresses errors; should return them instead
+- connections are not yet thread-safe
