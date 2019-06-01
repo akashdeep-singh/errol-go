@@ -5,7 +5,7 @@
 package mocks
 
 import (
-	models "github.com/akashdeep-singh/errol/pkg/models"
+	models "github.com/akashdeep-singh/errol-go/pkg/models"
 	gomock "github.com/golang/mock/gomock"
 	reflect "reflect"
 )

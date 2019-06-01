@@ -1,4 +1,4 @@
-module github.com/akashdeep-singh/errol
+module github.com/akashdeep-singh/errol-go
 
 go 1.12
 

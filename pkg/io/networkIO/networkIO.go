@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"encoding/binary"
 	"errors"
-	"github.com/akashdeep-singh/errol/pkg/io"
+	"github.com/akashdeep-singh/errol-go/pkg/io"
 	"net"
 )
 

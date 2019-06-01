@@ -2,8 +2,8 @@ package JSONcodec
 
 import (
 	"encoding/json"
-	"github.com/akashdeep-singh/errol/pkg/models"
-	"github.com/akashdeep-singh/errol/pkg/serialization"
+	"github.com/akashdeep-singh/errol-go/pkg/models"
+	"github.com/akashdeep-singh/errol-go/pkg/serialization"
 )
 
 type JSONResponseCodec struct {

@@ -1,8 +1,8 @@
 package tcpserver_test
 
 import (
-	"github.com/akashdeep-singh/errol/pkg/models"
-	"github.com/akashdeep-singh/errol/pkg/server/tcpserver"
+	"github.com/akashdeep-singh/errol-go/pkg/models"
+	"github.com/akashdeep-singh/errol-go/pkg/server/tcpserver"
 	"github.com/golang/mock/gomock"
 	"github.com/stretchr/testify/assert"
 	"testing"

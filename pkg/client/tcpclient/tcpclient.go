@@ -2,10 +2,10 @@ package tcpclient
 
 import (
 	"fmt"
-	"github.com/akashdeep-singh/errol/pkg/common"
-	"github.com/akashdeep-singh/errol/pkg/io"
-	"github.com/akashdeep-singh/errol/pkg/models"
-	"github.com/akashdeep-singh/errol/pkg/serialization"
+	"github.com/akashdeep-singh/errol-go/pkg/common"
+	"github.com/akashdeep-singh/errol-go/pkg/io"
+	"github.com/akashdeep-singh/errol-go/pkg/models"
+	"github.com/akashdeep-singh/errol-go/pkg/serialization"
 	"net"
 )
 

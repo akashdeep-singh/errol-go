@@ -2,10 +2,10 @@ package main
 
 import (
 	"fmt"
-	"github.com/akashdeep-singh/errol/pkg/client/tcpclient"
-	"github.com/akashdeep-singh/errol/pkg/io/networkIO"
-	"github.com/akashdeep-singh/errol/pkg/serialization/JSONcodec"
-	"github.com/akashdeep-singh/errol/pkg/server/tcpserver"
+	"github.com/akashdeep-singh/errol-go/pkg/client/tcpclient"
+	"github.com/akashdeep-singh/errol-go/pkg/io/networkIO"
+	"github.com/akashdeep-singh/errol-go/pkg/serialization/JSONcodec"
+	"github.com/akashdeep-singh/errol-go/pkg/server/tcpserver"
 	"time"
 )
 

@@ -2,9 +2,9 @@ package tcpclient_test
 
 import (
 	"errors"
-	"github.com/akashdeep-singh/errol/pkg/client/tcpclient"
-	"github.com/akashdeep-singh/errol/pkg/mocks"
-	"github.com/akashdeep-singh/errol/pkg/models"
+	"github.com/akashdeep-singh/errol-go/pkg/client/tcpclient"
+	"github.com/akashdeep-singh/errol-go/pkg/mocks"
+	"github.com/akashdeep-singh/errol-go/pkg/models"
 	"github.com/golang/mock/gomock"
 	"github.com/stretchr/testify/assert"
 	"testing"

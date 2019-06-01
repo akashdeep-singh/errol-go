@@ -1,7 +1,7 @@
 package serialization
 
 import (
-	"github.com/akashdeep-singh/errol/pkg/models"
+	"github.com/akashdeep-singh/errol-go/pkg/models"
 )
 
 //go:generate mockgen -source response.go -destination ../mocks/mock_response.go -package mocks

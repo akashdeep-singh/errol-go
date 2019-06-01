@@ -1,6 +1,6 @@
 package tcpserver
 
-import "github.com/akashdeep-singh/errol/pkg/models"
+import "github.com/akashdeep-singh/errol-go/pkg/models"
 
 //go:generate mockgen -source handler.go -destination ../../mocks/mock_handler.go -package mocks RequestHandler
 
